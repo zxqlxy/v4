@@ -8,7 +8,7 @@ tech:
   - TensorFlow
   - Jupyter Notebook
   - Python
-show: 'true'
+showInProjects: true
 ---
 
 I implemented CNN to detect object (face and car) and style transfer with and without Tensorflow. I also implemented RNN (LSTM) to improvise Jazz and translate text
